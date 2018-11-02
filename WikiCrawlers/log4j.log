@@ -1,0 +1,18 @@
+[main] 2018-10-22 17:49:57,039 [ERROR] org.inexture.wikicrawler.controller.WikiCrawlerController - WebUrl InCorrectjava.lang.NullPointerException
+[main] 2018-10-22 18:00:33,750 [ERROR] org.inexture.wikicrawler.controller.WikiCrawlerController - WebUrl InCorrectjava.lang.NullPointerException
+[main] 2018-10-22 18:06:47,976 [ERROR] org.inexture.wikicrawler.controller.WikiCrawlerController - WebUrl InCorrectjava.lang.NullPointerException
+[main] 2018-10-22 18:07:36,071 [ERROR] org.inexture.wikicrawler.controller.WikiCrawlerController - WebUrl InCorrectjava.lang.NullPointerException
+[main] 2018-10-22 18:07:41,809 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:08:48,630 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:09:32,359 [ERROR] org.inexture.wikicrawler.controller.WikiCrawlerController - WebUrl InCorrectjava.lang.NullPointerException
+[main] 2018-10-22 18:09:41,732 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:09:56,036 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:11:22,067 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:11:39,940 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:12:14,545 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:13:58,734 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:14:12,702 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:15:39,481 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:15:57,337 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:17:05,267 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem
+[main] 2018-10-22 18:22:39,586 [INFO] org.inexture.wikicrawler.controller.WikiCrawlerController - Image Saved in LocalSystem

@@ -1,0 +1,28 @@
+/**
+	 * @param src
+	 * @throws IOException
+	 * 
+	 */
+	private static String saveImageLocal(InputStream inputsrc, String imageName) throws IOException {
+
+		/* save image to given location */
+		_log.info("Local Image Location :" + "../.." + imageName);
+		File file = null;
+		File currentDirFile = new File("");
+		String imagePath = currentDirFile.getAbsolutePath() + File.separator + "src" + File.separator + "main"
+				+ File.separator + "resources" + File.separator + "images";
+		try {
+			file = new File(imagePath + imageName);
+			FileOutputStream fileOutputStream = new FileOutputStream(file);
+			OutputStream output = new BufferedOutputStream(fileOutputStream);
+			for (int length; (length = inputsrc.read()) != -1;) {
+				output.write(length);
+			}
+			_log.info("Image Saved in LocalSystem");
+			output.close();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return file.getAbsolutePath();
+	}
